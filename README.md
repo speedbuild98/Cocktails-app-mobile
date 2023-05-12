@@ -1,4 +1,4 @@
-# Cocktail App
+# Cocktail App (MOBILE)
 
 <img src="https://github.com/speedbuild98/Cocktails-app-mobile/assets/99227381/2afdfbf5-7737-44d8-a3d5-5a6e43d6607b" alt="Logo" width="100" height="100" />
 
