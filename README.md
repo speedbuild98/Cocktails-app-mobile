@@ -1,14 +1,14 @@
 # Cocktail App
 
-![image](https://github.com/speedbuild98/Cocktails-app-mobile/assets/99227381/2afdfbf5-7737-44d8-a3d5-5a6e43d6607b)
-
+<img src="https://github.com/speedbuild98/Cocktails-app-mobile/assets/99227381/2afdfbf5-7737-44d8-a3d5-5a6e43d6607b" alt="Logo" width="100" height="100" />
 
 This is a cocktail search and display application. It allows users to search for cocktails by name and view details of each cocktail, including the image, name, category, instructions, and ingredients. Users can also mark cocktails as favorites.
 
 ## Screenshots
 
-![image](https://github.com/speedbuild98/Cocktails-app-mobile/assets/99227381/99921adb-7652-4b27-b3ab-807d805cde3d)
-![image](https://github.com/speedbuild98/Cocktails-app-mobile/assets/99227381/fb2804be-8b0a-4ae0-b517-bc1cd88e53a0)
+<img src="https://github.com/speedbuild98/Cocktails-app-mobile/assets/99227381/99921adb-7652-4b27-b3ab-807d805cde3d" alt="Screenshot 1" width="30%" height="30%" />
+
+<img src="https://github.com/speedbuild98/Cocktails-app-mobile/assets/99227381/fb2804be-8b0a-4ae0-b517-bc1cd88e53a0" alt="Screenshot 2" width="30%" height="30%" />
 
 ## Installation
 
